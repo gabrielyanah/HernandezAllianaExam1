@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LabExam</string>
+    <string name="image">image</string>
+    <string name="one">Personal Notes</string>
+    <string name="two">Office Notes</string>
+    <string name="three">Public Notes</string>
+    <string name="note">Note 2</string>
+    <string name="note1">Lorem ipsum doler</string>
+</resources>
